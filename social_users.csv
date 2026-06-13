@@ -1,0 +1,601 @@
+ma_nguoi_dung,ten_tai_khoan,so_bai_dang,so_luot_thich,so_binh_luan,so_chia_se,so_gio_hoat_dong_ngay,hoat_dong_ban_dem,tuoi_tai_khoan_ngay,nguoi_theo_doi,dang_theo_doi,nhom_that
+ND0173,pham_huong_ban_be_0173,17,313,67,26,5,0,1193,3674,724,Người dùng bình thường
+ND0331,le_tuan_ban_be_0331,19,522,69,23,1,1,917,3010,183,Người dùng bình thường
+ND0289,pham_nhi_gia_dinh_0289,17,431,58,14,7,0,1124,2936,93,Người dùng bình thường
+TC0392,bui_khang_review_0392,51,21612,112,477,7,0,1836,17601,2275,Người dùng tương tác cao
+TC0408,pham_son_media_0408,36,7192,271,130,5,0,2187,71885,833,Người dùng tương tác cao
+TC0397,do_son_sang_tao_0397,53,21277,414,86,10,0,1167,88322,1950,Người dùng tương tác cao
+ND0106,tran_dat_du_lich_0106,9,135,47,20,6,0,874,1749,1081,Người dùng bình thường
+ND0385,nguyen_khang_gia_dinh_0385,12,370,38,10,3,0,2267,2904,770,Người dùng bình thường
+BT0530,dang_nhat_deal_0530,191,1785,539,1600,21,1,11,455,18735,Tài khoản nghi ngờ bất thường
+ND0104,le_nhi_ban_be_0104,15,252,51,11,1,0,1447,1445,838,Người dùng bình thường
+ND0114,vo_linh_doi_song_0114,8,157,24,8,3,0,1087,1116,1044,Người dùng bình thường
+ND0304,le_minh_doi_song_0304,11,252,22,17,1,0,979,2780,225,Người dùng bình thường
+BT0515,dang_khoa_deal_0515,82,1373,2427,1775,24,1,43,47,8717,Tài khoản nghi ngờ bất thường
+TC0470,le_thuy_media_0470,26,6047,105,444,12,1,1273,50106,2698,Người dùng tương tác cao
+ND0142,nguyen_phuc_nhat_ky_0142,15,439,21,10,6,0,2394,1068,668,Người dùng bình thường
+BT0522,tran_huyen_deal_0522,218,835,2101,1597,19,1,28,494,12763,Tài khoản nghi ngờ bất thường
+TC0429,do_thuy_media_0429,19,20680,335,407,12,0,2657,12568,463,Người dùng tương tác cao
+BT0571,bui_nhat_deal_0571,187,1592,844,2072,23,1,37,414,15299,Tài khoản nghi ngờ bất thường
+TC0403,nguyen_son_review_0403,18,19434,858,481,10,0,1622,48620,1564,Người dùng tương tác cao
+ND0134,bui_huong_nhat_ky_0134,3,203,14,6,3,1,1862,347,920,Người dùng bình thường
+ND0107,vo_duy_du_lich_0107,16,561,72,13,1,0,734,949,638,Người dùng bình thường
+BT0569,mai_linh_click_0569,103,1837,1399,627,22,1,39,456,12135,Tài khoản nghi ngờ bất thường
+ND0181,le_hoang_hoc_tap_0181,13,235,62,18,7,0,1595,3017,113,Người dùng bình thường
+ND0006,dang_nhat_ban_be_0006,8,166,35,12,4,0,2414,2136,1186,Người dùng bình thường
+ND0056,bui_vy_ca_nhan_0056,11,229,29,13,6,0,287,2975,1104,Người dùng bình thường
+TC0439,nguyen_bao_cong_dong_0439,21,11021,810,562,6,0,795,77549,2298,Người dùng tương tác cao
+ND0357,dang_phuc_ca_nhan_0357,13,379,58,5,2,0,2252,3590,854,Người dùng bình thường
+TC0486,nguyen_ngoc_creator_0486,35,17119,169,191,13,0,2052,50046,395,Người dùng tương tác cao
+ND0077,mai_dat_hoc_tap_0077,13,277,44,29,3,0,490,3442,209,Người dùng bình thường
+ND0192,nguyen_phuc_doi_song_0192,8,305,38,7,2,0,221,2750,726,Người dùng bình thường
+BT0525,mai_dat_khuyen_mai_0525,195,762,713,2139,22,1,34,535,20457,Tài khoản nghi ngờ bất thường
+TC0455,nguyen_thao_media_0455,44,2427,230,596,9,0,1329,12195,1924,Người dùng tương tác cao
+BT0589,nguyen_thuy_quang_cao_0589,137,996,1432,1721,24,1,24,217,8670,Tài khoản nghi ngờ bất thường
+ND0376,mai_linh_ca_nhan_0376,8,312,33,7,4,0,2247,987,1034,Người dùng bình thường
+ND0015,dang_trang_review_0015,17,412,27,17,4,0,1297,3564,1131,Người dùng bình thường
+TC0502,vo_khang_cong_dong_0502,25,10843,726,517,6,0,1812,80430,1341,Người dùng tương tác cao
+TC0431,le_linh_review_0431,53,10434,679,530,7,0,2627,83944,360,Người dùng tương tác cao
+ND0097,tran_huong_doi_song_0097,14,353,55,20,2,0,1103,2609,872,Người dùng bình thường
+ND0264,bui_yen_ca_nhan_0264,8,256,32,5,4,0,1401,375,1108,Người dùng bình thường
+BT0553,tran_linh_khuyen_mai_0553,232,694,2057,1785,17,1,58,482,10312,Tài khoản nghi ngờ bất thường
+ND0210,mai_ngoc_nhat_ky_0210,15,243,64,19,3,0,1298,1874,715,Người dùng bình thường
+ND0344,mai_my_doi_song_0344,12,165,48,13,6,0,723,1375,255,Người dùng bình thường
+ND0070,mai_dat_gia_dinh_0070,13,400,38,24,5,0,1400,3471,502,Người dùng bình thường
+ND0127,mai_huyen_nhat_ky_0127,11,355,54,21,2,0,2266,1126,382,Người dùng bình thường
+ND0003,vo_hoang_review_0003,18,420,49,31,1,0,1574,814,1181,Người dùng bình thường
+ND0017,hoang_quang_hoc_tap_0017,16,227,56,11,2,0,1620,4490,483,Người dùng bình thường
+ND0109,mai_minh_hoc_tap_0109,13,246,71,9,6,0,839,3160,583,Người dùng bình thường
+TC0457,mai_long_official_0457,42,19029,405,414,9,0,946,15651,371,Người dùng tương tác cao
+ND0320,pham_hoang_ca_nhan_0320,14,318,42,31,6,1,1739,3795,938,Người dùng bình thường
+ND0002,vo_lam_du_lich_0002,10,304,40,7,7,0,581,3763,63,Người dùng bình thường
+BT0583,le_ha_click_0583,218,981,2856,410,24,1,13,131,5619,Tài khoản nghi ngờ bất thường
+TC0482,mai_long_creator_0482,54,11693,192,302,13,0,1822,68911,1760,Người dùng tương tác cao
+TC0430,do_trang_cong_dong_0430,21,8660,620,503,8,0,1344,32839,1756,Người dùng tương tác cao
+ND0071,do_my_du_lich_0071,14,276,33,20,4,0,2333,1886,67,Người dùng bình thường
+BT0518,vo_trang_auto_0518,106,708,2441,433,18,1,30,440,15961,Tài khoản nghi ngờ bất thường
+ND0021,dang_tuan_doi_song_0021,2,139,10,1,3,0,416,3657,88,Người dùng bình thường
+ND0300,le_linh_du_lich_0300,19,560,34,21,2,0,1659,3531,278,Người dùng bình thường
+TC0405,tran_phuc_cong_dong_0405,30,19982,403,258,7,0,2122,22810,2160,Người dùng tương tác cao
+ND0060,do_anh_review_0060,6,164,16,5,5,0,1154,4137,149,Người dùng bình thường
+ND0295,tran_nhi_hoc_tap_0295,6,272,26,11,4,0,650,469,146,Người dùng bình thường
+ND0116,vo_ngoc_ban_be_0116,13,321,42,16,1,0,1891,2855,1174,Người dùng bình thường
+TC0402,le_my_official_0402,25,17818,417,539,10,0,1620,18795,83,Người dùng tương tác cao
+TC0412,le_trang_sang_tao_0412,35,5125,467,136,8,0,2374,28041,1026,Người dùng tương tác cao
+ND0035,mai_long_du_lich_0035,14,314,33,24,7,0,2000,2239,337,Người dùng bình thường
+ND0183,dang_thao_hoc_tap_0183,21,252,93,28,6,0,1142,4018,730,Người dùng bình thường
+ND0321,do_hoang_du_lich_0321,16,477,53,23,6,0,609,284,1093,Người dùng bình thường
+ND0368,mai_khoa_ca_nhan_0368,15,184,30,27,5,0,2083,1715,920,Người dùng bình thường
+ND0309,vo_huyen_hoc_tap_0309,10,243,46,24,7,0,1726,1354,575,Người dùng bình thường
+ND0245,hoang_trang_hoc_tap_0245,13,368,37,5,6,0,841,1688,423,Người dùng bình thường
+ND0342,hoang_yen_gia_dinh_0342,14,380,57,12,1,0,424,1250,640,Người dùng bình thường
+ND0317,bui_linh_ca_nhan_0317,11,448,60,14,6,1,1176,3961,205,Người dùng bình thường
+TC0495,le_linh_review_0495,29,9012,146,295,14,0,495,88799,1311,Người dùng tương tác cao
+ND0047,le_bao_ban_be_0047,14,229,33,13,5,0,1233,2773,97,Người dùng bình thường
+ND0098,tran_son_doi_song_0098,10,404,35,4,4,0,1556,631,833,Người dùng bình thường
+TC0440,pham_quang_cong_dong_0440,35,23757,837,360,10,0,2868,15861,1034,Người dùng tương tác cao
+TC0498,bui_my_media_0498,45,13978,704,420,13,1,1940,24464,1468,Người dùng tương tác cao
+ND0249,vo_ngoc_ban_be_0249,15,469,38,5,7,0,960,2884,65,Người dùng bình thường
+ND0273,tran_tuan_nhat_ky_0273,7,194,47,12,2,0,230,1424,332,Người dùng bình thường
+TC0491,dang_trang_cong_dong_0491,18,20676,885,268,8,0,2910,18027,2576,Người dùng tương tác cao
+TC0463,vo_bao_review_0463,27,6161,127,553,6,0,2888,50655,1663,Người dùng tương tác cao
+ND0102,tran_phuong_du_lich_0102,1,72,16,4,1,0,1709,3790,107,Người dùng bình thường
+BT0548,vo_nhat_deal_0548,81,1885,2961,1389,17,1,11,224,8329,Tài khoản nghi ngờ bất thường
+ND0204,nguyen_khoa_doi_song_0204,2,177,13,2,7,0,431,569,269,Người dùng bình thường
+ND0230,nguyen_thao_du_lich_0230,13,354,55,13,7,0,1570,3993,1132,Người dùng bình thường
+ND0303,le_huyen_du_lich_0303,15,189,69,20,6,0,2315,2645,481,Người dùng bình thường
+ND0036,do_dat_ban_be_0036,6,220,43,10,3,0,1857,2839,234,Người dùng bình thường
+TC0427,bui_phuc_official_0427,25,10017,341,220,8,0,1126,50924,1724,Người dùng tương tác cao
+TC0471,tran_nhat_media_0471,42,20662,874,594,14,1,2938,67073,1946,Người dùng tương tác cao
+ND0083,tran_my_du_lich_0083,9,117,46,25,6,0,402,2448,299,Người dùng bình thường
+ND0086,dang_anh_gia_dinh_0086,13,192,29,21,3,0,2072,4371,348,Người dùng bình thường
+ND0231,nguyen_bao_doi_song_0231,5,174,34,6,6,0,1884,2202,221,Người dùng bình thường
+ND0079,tran_quang_gia_dinh_0079,13,144,22,18,3,0,1455,983,545,Người dùng bình thường
+ND0128,bui_ngoc_du_lich_0128,6,298,30,7,5,0,767,499,816,Người dùng bình thường
+ND0194,le_phuc_ca_nhan_0194,9,273,47,7,4,0,888,441,464,Người dùng bình thường
+TC0437,nguyen_tuan_creator_0437,36,12493,737,460,14,0,1952,26030,872,Người dùng tương tác cao
+ND0217,do_ngoc_review_0217,13,334,28,12,1,0,2158,4477,681,Người dùng bình thường
+BT0572,mai_khoa_click_0572,168,2335,2944,351,20,1,19,361,15589,Tài khoản nghi ngờ bất thường
+ND0074,tran_hoang_ban_be_0074,12,320,31,7,4,0,1875,895,256,Người dùng bình thường
+ND0281,hoang_minh_doi_song_0281,2,118,10,8,4,0,2246,1545,793,Người dùng bình thường
+ND0007,bui_lam_du_lich_0007,10,366,33,17,1,0,793,3833,1110,Người dùng bình thường
+ND0272,bui_bao_ban_be_0272,8,220,12,12,4,0,1446,1431,1171,Người dùng bình thường
+ND0023,le_bao_doi_song_0023,8,184,15,8,2,0,1904,1878,296,Người dùng bình thường
+TC0415,do_phuc_cong_dong_0415,19,23668,727,133,11,0,790,75538,397,Người dùng tương tác cao
+TC0466,pham_lam_cong_dong_0466,38,21013,475,399,10,0,923,81665,1933,Người dùng tương tác cao
+BT0588,vo_nhat_deal_0588,228,2046,733,1591,19,1,42,613,16272,Tài khoản nghi ngờ bất thường
+BT0519,le_my_auto_0519,201,2422,2751,1975,16,1,31,109,14872,Tài khoản nghi ngờ bất thường
+BT0579,vo_huong_click_0579,183,2422,1828,1951,18,1,2,190,5524,Tài khoản nghi ngờ bất thường
+ND0191,nguyen_son_du_lich_0191,11,305,54,9,7,0,992,1627,948,Người dùng bình thường
+ND0296,hoang_minh_review_0296,8,113,18,17,1,0,966,296,309,Người dùng bình thường
+ND0161,pham_dat_nhat_ky_0161,5,136,17,8,2,0,377,1472,345,Người dùng bình thường
+ND0090,nguyen_thuy_ca_nhan_0090,15,260,74,13,7,0,603,1782,668,Người dùng bình thường
+ND0350,nguyen_nam_du_lich_0350,4,170,22,12,2,0,1731,3051,1131,Người dùng bình thường
+ND0346,hoang_ngoc_hoc_tap_0346,11,329,24,6,7,0,561,718,79,Người dùng bình thường
+ND0149,hoang_dat_ban_be_0149,4,109,16,0,5,0,1568,1619,182,Người dùng bình thường
+ND0050,tran_lam_hoc_tap_0050,5,79,16,7,7,0,1280,2432,787,Người dùng bình thường
+ND0189,pham_phuc_du_lich_0189,14,288,46,15,5,0,1020,570,921,Người dùng bình thường
+ND0172,mai_nhat_du_lich_0172,6,198,30,8,6,0,667,3899,970,Người dùng bình thường
+BT0547,dang_ha_khuyen_mai_0547,129,2288,2438,524,17,1,23,644,19883,Tài khoản nghi ngờ bất thường
+ND0253,tran_ngoc_gia_dinh_0253,12,102,54,10,5,0,670,1065,731,Người dùng bình thường
+BT0511,dang_nam_deal_0511,217,736,430,2117,20,1,21,482,7826,Tài khoản nghi ngờ bất thường
+ND0008,le_nhat_review_0008,1,56,5,0,7,0,1368,2674,977,Người dùng bình thường
+ND0233,vo_khang_ca_nhan_0233,16,311,35,12,6,0,1781,753,1195,Người dùng bình thường
+ND0045,le_nhat_review_0045,11,405,48,19,7,0,913,1220,587,Người dùng bình thường
+ND0064,bui_linh_ca_nhan_0064,11,285,14,17,1,0,1583,1517,978,Người dùng bình thường
+ND0335,vo_my_du_lich_0335,12,244,25,28,5,0,2271,3619,201,Người dùng bình thường
+ND0287,tran_my_review_0287,13,375,75,20,6,0,1733,2155,404,Người dùng bình thường
+ND0326,nguyen_phuc_ca_nhan_0326,9,259,33,7,7,0,1061,4059,732,Người dùng bình thường
+BT0587,tran_quang_click_0587,112,932,820,1980,19,1,55,211,8130,Tài khoản nghi ngờ bất thường
+ND0297,pham_anh_hoc_tap_0297,11,221,37,12,6,0,2125,1561,1095,Người dùng bình thường
+BT0593,le_bao_khuyen_mai_0593,170,1655,1343,955,22,1,19,559,11143,Tài khoản nghi ngờ bất thường
+ND0180,do_minh_review_0180,10,332,46,21,2,0,737,2569,773,Người dùng bình thường
+ND0075,bui_hoang_ca_nhan_0075,15,250,42,21,7,1,587,3550,308,Người dùng bình thường
+ND0141,dang_my_nhat_ky_0141,8,224,30,12,1,0,2313,3533,479,Người dùng bình thường
+BT0595,hoang_hoang_khuyen_mai_0595,167,1990,2856,1849,24,1,55,42,10333,Tài khoản nghi ngờ bất thường
+TC0475,tran_nhat_official_0475,28,20074,772,217,11,0,1592,23515,2846,Người dùng tương tác cao
+ND0022,nguyen_nhat_hoc_tap_0022,7,200,21,13,5,0,409,1002,372,Người dùng bình thường
+ND0254,mai_phuong_nhat_ky_0254,11,344,31,7,7,0,1511,4050,243,Người dùng bình thường
+TC0469,le_lam_review_0469,47,19104,680,359,7,1,632,55287,726,Người dùng tương tác cao
+ND0160,pham_mai_nhat_ky_0160,21,614,49,35,1,0,2035,639,679,Người dùng bình thường
+ND0205,vo_nhi_nhat_ky_0205,10,98,36,12,3,0,1063,4152,240,Người dùng bình thường
+TC0507,pham_minh_official_0507,22,15996,244,73,7,0,560,62041,2768,Người dùng tương tác cao
+TC0510,do_nhi_cong_dong_0510,45,14118,527,440,9,0,1143,74359,2193,Người dùng tương tác cao
+TC0497,do_khoa_blog_0497,40,11261,688,535,5,0,417,25070,2667,Người dùng tương tác cao
+TC0425,bui_yen_official_0425,35,1900,448,318,14,0,685,48552,699,Người dùng tương tác cao
+ND0240,pham_ngoc_hoc_tap_0240,15,218,32,4,1,0,1906,3497,1165,Người dùng bình thường
+TC0505,hoang_anh_sang_tao_0505,49,16848,517,96,11,0,1698,56736,1169,Người dùng tương tác cao
+ND0377,bui_trang_ban_be_0377,16,374,66,12,3,1,1601,3335,79,Người dùng bình thường
+ND0383,pham_hoang_doi_song_0383,4,166,3,10,7,0,1281,3238,107,Người dùng bình thường
+ND0221,le_huyen_ban_be_0221,10,187,44,16,3,0,1897,1323,105,Người dùng bình thường
+ND0256,bui_dat_ban_be_0256,15,230,28,4,6,0,621,2622,246,Người dùng bình thường
+BT0564,bui_mai_click_0564,228,2383,2570,1220,17,1,52,557,10404,Tài khoản nghi ngờ bất thường
+ND0073,tran_phuong_ca_nhan_0073,14,365,66,11,4,0,684,3826,750,Người dùng bình thường
+ND0162,do_nhi_ban_be_0162,14,508,30,9,3,0,192,3559,274,Người dùng bình thường
+ND0337,le_tuan_du_lich_0337,13,238,37,2,1,0,1906,2918,1162,Người dùng bình thường
+ND0263,dang_lam_ban_be_0263,1,146,2,9,1,0,2340,3566,893,Người dùng bình thường
+BT0533,pham_my_deal_0533,135,2103,507,2100,16,1,41,554,15090,Tài khoản nghi ngờ bất thường
+TC0410,do_long_media_0410,22,22892,259,227,12,0,1035,87507,2412,Người dùng tương tác cao
+ND0110,nguyen_lam_gia_dinh_0110,20,505,28,27,6,0,729,2620,356,Người dùng bình thường
+TC0478,le_minh_media_0478,37,18424,270,173,7,1,871,48785,1843,Người dùng tương tác cao
+ND0013,do_vy_doi_song_0013,1,100,4,1,4,0,2091,1478,355,Người dùng bình thường
+TC0446,vo_phuc_creator_0446,29,3333,840,482,9,0,2572,79721,906,Người dùng tương tác cao
+BT0527,le_yen_khuyen_mai_0527,186,119,1853,1862,16,1,52,641,15492,Tài khoản nghi ngờ bất thường
+BT0555,hoang_phuc_auto_0555,143,2341,1567,1558,16,1,53,47,15631,Tài khoản nghi ngờ bất thường
+ND0298,vo_ngoc_review_0298,16,218,70,20,1,0,492,1669,595,Người dùng bình thường
+ND0334,vo_bao_ca_nhan_0334,8,208,26,17,5,0,1880,1158,790,Người dùng bình thường
+ND0302,pham_long_du_lich_0302,12,319,48,8,4,0,1870,181,478,Người dùng bình thường
+BT0558,dang_thao_auto_0558,92,1271,1126,795,17,1,5,612,6713,Tài khoản nghi ngờ bất thường
+TC0500,nguyen_khoa_media_0500,36,4475,547,245,10,0,2645,85078,412,Người dùng tương tác cao
+ND0242,hoang_ngoc_du_lich_0242,16,312,32,25,4,0,2154,1524,911,Người dùng bình thường
+ND0150,bui_tuan_doi_song_0150,8,154,19,7,7,0,998,1217,66,Người dùng bình thường
+ND0198,tran_anh_hoc_tap_0198,7,144,37,4,2,0,2439,2759,579,Người dùng bình thường
+TC0493,bui_nam_review_0493,45,11802,559,142,11,0,2480,32027,875,Người dùng tương tác cao
+ND0361,do_tuan_hoc_tap_0361,12,148,49,19,4,0,1083,472,200,Người dùng bình thường
+TC0492,pham_vy_cong_dong_0492,46,7940,481,160,14,0,2942,8639,1072,Người dùng tương tác cao
+ND0111,pham_bao_hoc_tap_0111,13,298,32,20,6,0,671,4347,1176,Người dùng bình thường
+ND0372,vo_mai_ca_nhan_0372,11,358,30,11,6,0,407,1465,76,Người dùng bình thường
+ND0387,pham_son_du_lich_0387,10,306,52,9,4,0,1652,3125,414,Người dùng bình thường
+ND0343,bui_ha_gia_dinh_0343,11,390,25,19,7,0,1216,1793,355,Người dùng bình thường
+ND0122,hoang_son_ban_be_0122,8,152,27,10,1,0,1660,2869,83,Người dùng bình thường
+ND0061,tran_yen_hoc_tap_0061,10,284,40,12,2,1,854,1713,1073,Người dùng bình thường
+ND0187,vo_khang_doi_song_0187,12,180,31,8,2,0,497,210,575,Người dùng bình thường
+BT0543,bui_vy_quang_cao_0543,84,2254,2728,355,24,1,57,93,13856,Tài khoản nghi ngờ bất thường
+ND0310,hoang_tuan_nhat_ky_0310,11,363,40,10,4,0,1999,4040,1005,Người dùng bình thường
+ND0223,do_mai_doi_song_0223,19,418,45,17,2,0,1658,2053,672,Người dùng bình thường
+TC0406,do_nhat_official_0406,25,22335,386,564,6,1,2308,63664,549,Người dùng tương tác cao
+ND0156,bui_trang_nhat_ky_0156,21,623,35,30,2,0,1559,843,1088,Người dùng bình thường
+TC0474,dang_thuy_sang_tao_0474,24,2747,248,99,12,0,1285,78295,220,Người dùng tương tác cao
+ND0001,bui_bao_doi_song_0001,16,368,61,15,5,0,600,1909,1179,Người dùng bình thường
+ND0202,hoang_vy_nhat_ky_0202,13,188,20,8,6,1,1133,2851,105,Người dùng bình thường
+ND0057,le_thuy_doi_song_0057,14,178,37,22,4,1,1822,127,540,Người dùng bình thường
+ND0120,bui_nhat_nhat_ky_0120,8,192,24,4,1,0,1652,2577,390,Người dùng bình thường
+TC0413,dang_nhat_cong_dong_0413,37,16436,724,76,14,0,1041,28279,968,Người dùng tương tác cao
+TC0499,tran_quang_review_0499,18,2663,196,321,8,1,326,78363,331,Người dùng tương tác cao
+BT0534,tran_mai_deal_0534,186,312,538,2094,18,1,52,23,10836,Tài khoản nghi ngờ bất thường
+TC0456,pham_nhi_blog_0456,40,9726,312,87,8,0,998,39905,2551,Người dùng tương tác cao
+TC0501,hoang_huong_sang_tao_0501,36,3319,705,269,13,0,1967,10900,1448,Người dùng tương tác cao
+ND0018,tran_trang_gia_dinh_0018,15,445,64,22,4,0,881,948,163,Người dùng bình thường
+TC0506,hoang_ngoc_official_0506,31,23520,281,122,8,0,2947,28475,1602,Người dùng tương tác cao
+ND0348,tran_ha_review_0348,10,314,59,8,7,1,1996,2468,746,Người dùng bình thường
+TC0438,bui_nhat_sang_tao_0438,40,7581,557,305,6,0,832,16510,2538,Người dùng tương tác cao
+ND0176,le_phuong_review_0176,17,565,67,28,7,0,1357,2227,450,Người dùng bình thường
+ND0040,bui_huyen_doi_song_0040,18,359,39,17,5,0,1127,3936,738,Người dùng bình thường
+ND0155,pham_nhi_ca_nhan_0155,10,388,34,9,7,0,235,2502,496,Người dùng bình thường
+BT0551,hoang_khoa_khuyen_mai_0551,145,1941,3071,732,23,1,44,114,12069,Tài khoản nghi ngờ bất thường
+BT0561,hoang_bao_khuyen_mai_0561,167,594,1565,2118,16,1,23,5,13008,Tài khoản nghi ngờ bất thường
+TC0423,tran_khoa_creator_0423,25,20313,453,210,7,0,1336,41019,1066,Người dùng tương tác cao
+BT0598,bui_long_bot_0598,135,1502,3091,620,21,1,42,260,20553,Tài khoản nghi ngờ bất thường
+TC0487,nguyen_bao_media_0487,45,10042,748,355,8,0,416,57578,2226,Người dùng tương tác cao
+TC0452,do_yen_cong_dong_0452,27,2115,333,250,13,1,251,53349,613,Người dùng tương tác cao
+TC0424,nguyen_thao_official_0424,26,7968,510,426,12,0,2697,50040,579,Người dùng tương tác cao
+ND0229,tran_yen_ca_nhan_0229,16,295,61,34,3,0,2356,1353,57,Người dùng bình thường
+ND0027,tran_phuong_doi_song_0027,9,271,42,17,1,0,1631,4366,876,Người dùng bình thường
+ND0032,tran_lam_review_0032,5,249,17,6,1,0,2455,4331,545,Người dùng bình thường
+ND0358,bui_yen_du_lich_0358,11,171,50,18,1,0,1858,3808,328,Người dùng bình thường
+ND0313,hoang_duy_doi_song_0313,15,493,57,23,1,0,567,3984,1150,Người dùng bình thường
+ND0143,do_nhat_ca_nhan_0143,6,200,25,12,2,0,2454,4333,867,Người dùng bình thường
+ND0259,tran_minh_hoc_tap_0259,6,191,23,10,3,0,2137,3302,934,Người dùng bình thường
+ND0276,pham_yen_doi_song_0276,6,170,20,10,3,0,231,3438,179,Người dùng bình thường
+TC0494,le_thuy_official_0494,44,22444,323,342,14,0,2310,62183,480,Người dùng tương tác cao
+BT0535,mai_nam_khuyen_mai_0535,121,909,853,1344,19,1,27,385,13879,Tài khoản nghi ngờ bất thường
+ND0260,pham_khang_hoc_tap_0260,11,257,39,5,2,0,1609,697,1144,Người dùng bình thường
+ND0159,do_bao_doi_song_0159,16,538,45,5,1,0,1658,1277,1144,Người dùng bình thường
+BT0520,tran_minh_quang_cao_0520,126,1706,2459,1774,22,1,17,206,17118,Tài khoản nghi ngờ bất thường
+ND0378,mai_anh_hoc_tap_0378,9,231,33,10,7,0,1357,1080,847,Người dùng bình thường
+ND0042,hoang_mai_du_lich_0042,18,396,66,24,7,0,2267,4359,705,Người dùng bình thường
+ND0179,bui_my_review_0179,12,319,73,11,3,0,2416,894,1088,Người dùng bình thường
+ND0154,le_yen_review_0154,13,464,73,12,2,0,1287,3113,318,Người dùng bình thường
+BT0570,dang_huyen_quang_cao_0570,157,247,748,1737,24,1,41,190,21641,Tài khoản nghi ngờ bất thường
+ND0139,do_minh_gia_dinh_0139,6,128,31,9,5,0,1486,867,895,Người dùng bình thường
+ND0299,mai_nhi_review_0299,16,365,64,35,4,0,2286,314,757,Người dùng bình thường
+ND0247,do_hoang_doi_song_0247,6,243,16,6,2,0,2354,1254,462,Người dùng bình thường
+ND0220,mai_my_gia_dinh_0220,14,263,63,17,3,0,1900,880,519,Người dùng bình thường
+ND0025,dang_son_gia_dinh_0025,8,268,26,12,6,0,1480,540,63,Người dùng bình thường
+ND0271,do_huong_hoc_tap_0271,13,317,39,18,5,0,1098,1366,734,Người dùng bình thường
+ND0062,bui_huong_du_lich_0062,18,471,43,8,5,0,1176,3965,345,Người dùng bình thường
+ND0284,pham_yen_review_0284,11,352,35,11,2,0,1585,3005,337,Người dùng bình thường
+BT0596,hoang_tuan_quang_cao_0596,215,1242,2002,1945,17,1,41,460,15176,Tài khoản nghi ngờ bất thường
+ND0089,nguyen_thuy_nhat_ky_0089,17,210,60,13,6,0,734,2430,1134,Người dùng bình thường
+ND0270,vo_nhi_hoc_tap_0270,9,300,57,16,3,0,1882,1588,51,Người dùng bình thường
+ND0333,nguyen_thao_gia_dinh_0333,13,358,31,14,4,0,1295,3554,512,Người dùng bình thường
+ND0131,tran_thao_nhat_ky_0131,19,628,42,8,6,0,1802,4258,893,Người dùng bình thường
+ND0367,vo_duy_ban_be_0367,7,185,32,19,6,0,1806,236,340,Người dùng bình thường
+ND0324,le_khang_gia_dinh_0324,21,607,58,28,2,0,1967,3333,957,Người dùng bình thường
+ND0080,nguyen_khoa_gia_dinh_0080,7,266,39,5,4,0,1721,952,803,Người dùng bình thường
+ND0294,tran_phuc_du_lich_0294,5,89,21,5,1,0,915,3895,459,Người dùng bình thường
+TC0467,hoang_minh_review_0467,26,9933,397,276,6,1,1847,31160,1565,Người dùng tương tác cao
+TC0479,dang_anh_review_0479,34,12882,866,289,14,1,1559,13334,1475,Người dùng tương tác cao
+ND0103,nguyen_mai_nhat_ky_0103,16,271,30,20,1,0,610,2583,860,Người dùng bình thường
+TC0483,nguyen_lam_review_0483,33,16115,647,493,11,1,2279,21269,1509,Người dùng tương tác cao
+ND0262,nguyen_son_nhat_ky_0262,15,164,63,22,1,0,2114,1091,97,Người dùng bình thường
+ND0197,tran_khoa_ca_nhan_0197,4,125,18,6,7,0,1808,1076,704,Người dùng bình thường
+ND0196,pham_phuong_gia_dinh_0196,22,683,86,36,2,0,674,1958,689,Người dùng bình thường
+ND0138,pham_khang_du_lich_0138,21,480,61,11,5,0,2244,564,620,Người dùng bình thường
+ND0225,mai_minh_doi_song_0225,19,322,97,13,6,0,1277,694,1019,Người dùng bình thường
+ND0043,bui_huyen_gia_dinh_0043,4,50,12,8,2,0,298,3879,533,Người dùng bình thường
+BT0531,nguyen_huong_spam_0531,129,965,1346,464,22,1,44,469,13483,Tài khoản nghi ngờ bất thường
+ND0293,tran_yen_ca_nhan_0293,8,128,33,15,6,0,1753,2779,93,Người dùng bình thường
+BT0546,mai_trang_deal_0546,96,2165,1485,825,19,1,43,253,9623,Tài khoản nghi ngờ bất thường
+ND0168,vo_huyen_ca_nhan_0168,11,265,28,20,3,0,599,4092,360,Người dùng bình thường
+ND0328,bui_ngoc_nhat_ky_0328,19,553,33,15,4,0,1431,2567,971,Người dùng bình thường
+ND0341,dang_dat_du_lich_0341,8,272,36,2,4,0,343,4000,513,Người dùng bình thường
+TC0473,le_minh_official_0473,22,7179,100,219,12,1,268,51437,1959,Người dùng tương tác cao
+ND0066,hoang_mai_gia_dinh_0066,14,374,59,20,1,0,1757,2322,938,Người dùng bình thường
+ND0169,tran_dat_gia_dinh_0169,6,222,32,9,4,0,1813,3742,774,Người dùng bình thường
+BT0544,hoang_nhat_quang_cao_0544,113,1096,669,1429,21,1,23,352,4945,Tài khoản nghi ngờ bất thường
+BT0528,tran_phuc_spam_0528,238,653,488,560,17,1,37,177,2535,Tài khoản nghi ngờ bất thường
+ND0099,bui_ngoc_review_0099,9,249,19,7,3,0,1480,1930,583,Người dùng bình thường
+ND0147,tran_phuc_review_0147,12,195,33,16,4,0,2369,600,1035,Người dùng bình thường
+ND0010,le_ha_ban_be_0010,12,250,24,21,7,0,2418,2279,771,Người dùng bình thường
+ND0353,hoang_duy_ca_nhan_0353,15,401,70,18,2,0,697,3040,409,Người dùng bình thường
+BT0556,mai_huyen_click_0556,220,1820,1189,1276,20,1,49,425,6791,Tài khoản nghi ngờ bất thường
+TC0485,do_quang_review_0485,35,14024,254,535,12,0,929,31018,630,Người dùng tương tác cao
+ND0283,nguyen_nhi_ca_nhan_0283,16,297,50,28,1,0,677,4168,192,Người dùng bình thường
+ND0091,dang_quang_gia_dinh_0091,10,387,21,7,2,0,1009,172,101,Người dùng bình thường
+TC0480,vo_khang_official_0480,53,12934,376,169,13,0,1441,10658,1425,Người dùng tương tác cao
+BT0517,mai_dat_spam_0517,162,1239,2062,1706,17,1,42,209,12067,Tài khoản nghi ngờ bất thường
+ND0308,tran_lam_gia_dinh_0308,6,226,29,5,4,1,1285,665,219,Người dùng bình thường
+ND0123,hoang_vy_nhat_ky_0123,12,417,49,17,7,0,862,3264,1153,Người dùng bình thường
+ND0356,bui_ngoc_doi_song_0356,14,359,30,11,7,0,2386,2023,662,Người dùng bình thường
+BT0554,vo_dat_bot_0554,152,860,2523,1470,18,1,7,637,8940,Tài khoản nghi ngờ bất thường
+ND0268,mai_minh_du_lich_0268,7,126,36,10,3,1,855,2372,174,Người dùng bình thường
+ND0206,le_nhat_nhat_ky_0206,4,122,29,6,3,0,1712,1239,542,Người dùng bình thường
+ND0340,tran_son_nhat_ky_0340,11,287,49,11,5,0,282,2963,408,Người dùng bình thường
+TC0421,tran_phuong_cong_dong_0421,46,17361,415,379,14,1,1107,43151,592,Người dùng tương tác cao
+ND0305,nguyen_dat_du_lich_0305,20,623,52,40,6,0,767,3106,125,Người dùng bình thường
+ND0226,bui_khoa_nhat_ky_0226,3,134,12,4,3,1,816,2075,98,Người dùng bình thường
+TC0404,tran_yen_sang_tao_0404,32,10275,179,117,8,0,2887,12036,1927,Người dùng tương tác cao
+ND0389,nguyen_dat_review_0389,5,231,31,7,2,0,1205,4375,812,Người dùng bình thường
+ND0072,vo_minh_ca_nhan_0072,6,181,8,12,7,0,299,956,523,Người dùng bình thường
+ND0055,pham_mai_gia_dinh_0055,12,183,58,15,4,0,1743,4035,1125,Người dùng bình thường
+ND0219,le_anh_du_lich_0219,9,202,51,12,1,0,1575,903,182,Người dùng bình thường
+ND0390,vo_nhat_hoc_tap_0390,6,63,21,9,1,0,558,3825,424,Người dùng bình thường
+ND0388,tran_khoa_gia_dinh_0388,16,394,40,15,1,0,1384,996,338,Người dùng bình thường
+BT0539,pham_phuc_khuyen_mai_0539,159,1576,1818,2163,18,1,56,416,3098,Tài khoản nghi ngờ bất thường
+ND0135,nguyen_ha_ban_be_0135,10,138,55,14,3,0,2405,1038,41,Người dùng bình thường
+ND0170,tran_long_gia_dinh_0170,5,150,32,4,2,1,2307,1876,362,Người dùng bình thường
+ND0275,pham_phuong_gia_dinh_0275,11,143,23,18,1,0,354,983,963,Người dùng bình thường
+TC0409,nguyen_lam_official_0409,32,23193,267,112,8,1,2751,24222,777,Người dùng tương tác cao
+ND0258,dang_hoang_gia_dinh_0258,10,194,27,10,2,0,1444,1382,87,Người dùng bình thường
+TC0461,bui_linh_sang_tao_0461,27,22359,830,346,13,1,378,35494,517,Người dùng tương tác cao
+BT0557,tran_khoa_quang_cao_0557,152,1811,1461,885,17,1,45,400,10073,Tài khoản nghi ngờ bất thường
+ND0208,dang_trang_ban_be_0208,15,357,54,8,7,0,1735,3002,893,Người dùng bình thường
+TC0451,vo_long_creator_0451,52,1525,660,412,9,1,1773,49686,849,Người dùng tương tác cao
+ND0382,mai_vy_du_lich_0382,19,525,30,30,1,0,1647,4385,1148,Người dùng bình thường
+ND0087,tran_son_ban_be_0087,10,269,24,16,1,0,1683,839,606,Người dùng bình thường
+ND0146,vo_phuong_review_0146,22,423,50,9,1,0,939,4176,589,Người dùng bình thường
+ND0207,tran_khang_hoc_tap_0207,11,283,32,24,5,0,654,4360,907,Người dùng bình thường
+ND0213,tran_nhat_review_0213,9,337,34,6,6,0,1867,4185,729,Người dùng bình thường
+TC0432,hoang_nhat_blog_0432,48,11002,296,212,7,0,1030,10313,575,Người dùng tương tác cao
+TC0422,dang_huyen_official_0422,50,10933,264,70,12,0,2573,53924,438,Người dùng tương tác cao
+BT0545,bui_hoang_spam_0545,138,1250,1881,1271,18,1,26,16,3620,Tài khoản nghi ngờ bất thường
+ND0252,dang_khoa_ca_nhan_0252,17,310,23,12,3,0,1735,505,886,Người dùng bình thường
+ND0151,dang_my_hoc_tap_0151,11,389,47,13,7,1,2193,3905,1077,Người dùng bình thường
+ND0144,vo_ngoc_du_lich_0144,15,369,42,13,6,0,1215,455,912,Người dùng bình thường
+ND0312,bui_huong_nhat_ky_0312,12,354,61,17,1,0,2438,1749,466,Người dùng bình thường
+TC0462,hoang_thao_review_0462,41,15395,623,79,7,0,1501,16664,1315,Người dùng tương tác cao
+ND0239,bui_mai_nhat_ky_0239,1,47,23,5,2,0,686,1028,456,Người dùng bình thường
+ND0004,dang_my_review_0004,7,197,42,4,5,0,2451,4163,278,Người dùng bình thường
+ND0046,do_duy_review_0046,22,617,34,36,3,0,1084,4295,785,Người dùng bình thường
+BT0590,le_phuong_deal_0590,138,105,905,1029,18,1,41,114,17918,Tài khoản nghi ngờ bất thường
+ND0277,nguyen_bao_ca_nhan_0277,12,331,11,7,5,1,1250,2811,479,Người dùng bình thường
+ND0095,dang_vy_gia_dinh_0095,4,145,20,12,6,0,721,1709,657,Người dùng bình thường
+TC0441,hoang_huong_review_0441,42,7597,105,295,11,1,2439,35605,445,Người dùng tương tác cao
+ND0140,le_ha_nhat_ky_0140,1,21,20,1,5,0,365,3180,796,Người dùng bình thường
+ND0009,tran_nam_ban_be_0009,18,480,50,8,4,0,1696,871,438,Người dùng bình thường
+TC0416,bui_dat_media_0416,54,2980,692,582,14,0,585,50795,474,Người dùng tương tác cao
+TC0504,nguyen_my_creator_0504,18,11746,830,404,8,0,2877,22627,1285,Người dùng tương tác cao
+ND0306,do_duy_du_lich_0306,11,357,45,22,3,0,786,3348,527,Người dùng bình thường
+BT0512,tran_thao_auto_0512,232,764,1665,831,16,1,54,459,10200,Tài khoản nghi ngờ bất thường
+BT0516,tran_son_khuyen_mai_0516,106,578,1339,754,16,0,27,288,18332,Tài khoản nghi ngờ bất thường
+ND0365,le_dat_gia_dinh_0365,17,217,31,30,3,1,2418,3235,697,Người dùng bình thường
+BT0532,do_son_khuyen_mai_0532,115,2042,2363,308,21,1,58,605,8301,Tài khoản nghi ngờ bất thường
+BT0568,pham_ngoc_deal_0568,65,1276,816,1583,18,0,51,368,14955,Tài khoản nghi ngờ bất thường
+ND0113,do_vy_du_lich_0113,20,353,89,11,4,0,627,1512,232,Người dùng bình thường
+ND0373,bui_quang_doi_song_0373,4,109,11,6,6,0,2317,1251,918,Người dùng bình thường
+ND0152,hoang_khang_gia_dinh_0152,15,318,76,23,6,0,2354,1644,327,Người dùng bình thường
+ND0100,do_son_doi_song_0100,20,566,62,34,6,0,484,1135,584,Người dùng bình thường
+ND0366,dang_khoa_ban_be_0366,10,326,26,18,3,0,478,2329,767,Người dùng bình thường
+ND0288,dang_nam_gia_dinh_0288,10,180,32,4,2,0,2112,3854,1119,Người dùng bình thường
+ND0336,tran_nhat_nhat_ky_0336,7,143,31,15,7,1,599,1688,1142,Người dùng bình thường
+ND0203,pham_vy_gia_dinh_0203,18,389,46,23,3,0,313,3849,822,Người dùng bình thường
+ND0311,hoang_nhi_hoc_tap_0311,4,167,10,7,1,0,480,1476,763,Người dùng bình thường
+TC0426,do_phuong_sang_tao_0426,52,19099,706,86,10,0,327,30524,2343,Người dùng tương tác cao
+ND0014,pham_lam_hoc_tap_0014,15,537,47,8,1,0,2411,474,965,Người dùng bình thường
+ND0157,hoang_huong_hoc_tap_0157,19,592,63,35,5,1,1745,3313,386,Người dùng bình thường
+ND0375,bui_hoang_review_0375,4,184,26,6,6,0,239,1120,286,Người dùng bình thường
+ND0118,tran_nhi_ban_be_0118,8,130,5,16,1,0,2269,1810,631,Người dùng bình thường
+ND0094,bui_hoang_hoc_tap_0094,15,270,34,8,2,0,1911,1927,465,Người dùng bình thường
+ND0078,bui_thao_gia_dinh_0078,8,171,39,15,5,0,1211,4399,982,Người dùng bình thường
+ND0084,hoang_huyen_nhat_ky_0084,17,362,42,8,7,1,2481,276,627,Người dùng bình thường
+TC0419,do_dat_creator_0419,34,13666,661,423,9,0,1084,26220,1814,Người dùng tương tác cao
+TC0401,dang_bao_media_0401,30,20438,100,100,8,0,2357,60607,1230,Người dùng tương tác cao
+ND0129,vo_nhi_ban_be_0129,16,330,43,11,2,1,858,1781,271,Người dùng bình thường
+ND0355,hoang_son_ban_be_0355,12,392,55,8,7,0,1648,3797,1149,Người dùng bình thường
+TC0393,tran_thuy_official_0393,44,8396,857,208,7,0,2445,33610,1370,Người dùng tương tác cao
+ND0218,le_huyen_du_lich_0218,7,247,23,9,2,0,740,4429,721,Người dùng bình thường
+ND0360,pham_trang_hoc_tap_0360,10,199,15,17,6,0,1366,244,370,Người dùng bình thường
+ND0323,pham_quang_hoc_tap_0323,9,239,36,8,3,0,1626,125,728,Người dùng bình thường
+BT0563,nguyen_my_click_0563,100,437,1391,302,21,1,7,627,20955,Tài khoản nghi ngờ bất thường
+ND0174,tran_linh_ban_be_0174,3,140,23,3,7,1,1134,3537,837,Người dùng bình thường
+BT0566,dang_duy_auto_0566,147,275,3126,1221,17,1,12,226,4995,Tài khoản nghi ngờ bất thường
+BT0537,bui_phuong_khuyen_mai_0537,82,2388,2877,2114,22,1,55,584,3562,Tài khoản nghi ngờ bất thường
+ND0063,mai_thao_nhat_ky_0063,9,153,29,17,3,0,520,252,556,Người dùng bình thường
+BT0523,bui_khoa_auto_0523,127,679,1764,2145,20,1,5,637,4578,Tài khoản nghi ngờ bất thường
+ND0307,vo_my_doi_song_0307,6,121,19,10,1,0,2121,1974,1058,Người dùng bình thường
+TC0394,vo_hoang_blog_0394,45,8736,215,419,10,0,2211,22605,2679,Người dùng tương tác cao
+ND0186,vo_vy_ca_nhan_0186,10,168,35,11,2,0,1354,1781,1174,Người dùng bình thường
+ND0016,vo_nhat_hoc_tap_0016,14,453,64,25,4,0,671,4399,1114,Người dùng bình thường
+BT0514,dang_long_quang_cao_0514,139,2484,876,1399,23,1,20,295,13902,Tài khoản nghi ngờ bất thường
+ND0278,vo_long_du_lich_0278,13,372,40,20,2,0,1387,1936,324,Người dùng bình thường
+BT0536,tran_hoang_bot_0536,161,512,753,1843,21,1,42,548,16153,Tài khoản nghi ngờ bất thường
+ND0352,mai_ha_doi_song_0352,19,585,27,31,3,0,2342,3493,149,Người dùng bình thường
+TC0489,vo_long_official_0489,29,24352,775,540,5,1,845,84333,702,Người dùng tương tác cao
+ND0269,mai_bao_ban_be_0269,12,320,43,11,6,0,2197,1035,226,Người dùng bình thường
+ND0153,tran_trang_review_0153,13,282,28,21,5,0,1032,4167,1093,Người dùng bình thường
+ND0101,nguyen_khang_hoc_tap_0101,11,299,9,16,1,0,245,431,682,Người dùng bình thường
+ND0012,vo_quang_nhat_ky_0012,8,132,19,9,1,0,614,3269,190,Người dùng bình thường
+ND0386,le_nhi_doi_song_0386,14,270,63,20,3,0,1533,2573,389,Người dùng bình thường
+ND0329,pham_huong_du_lich_0329,9,340,21,10,4,0,428,2164,861,Người dùng bình thường
+BT0567,bui_nhat_auto_0567,76,849,2203,2059,23,1,31,359,8830,Tài khoản nghi ngờ bất thường
+TC0490,le_trang_media_0490,39,7802,654,310,14,1,561,78136,1255,Người dùng tương tác cao
+ND0034,dang_ngoc_gia_dinh_0034,13,375,49,21,6,0,1607,2948,879,Người dùng bình thường
+TC0433,dang_nhi_official_0433,27,6669,638,399,10,1,962,51943,1768,Người dùng tương tác cao
+ND0068,bui_bao_hoc_tap_0068,12,336,17,16,3,0,2377,3312,465,Người dùng bình thường
+ND0285,bui_thao_gia_dinh_0285,19,497,87,21,2,0,1959,2541,1174,Người dùng bình thường
+ND0292,bui_phuc_du_lich_0292,13,392,51,21,2,0,1701,564,356,Người dùng bình thường
+TC0450,pham_khang_media_0450,55,5698,719,495,11,0,600,27522,976,Người dùng tương tác cao
+ND0145,hoang_anh_hoc_tap_0145,14,308,12,13,1,0,2008,2946,822,Người dùng bình thường
+BT0542,mai_dat_deal_0542,119,882,1722,1243,24,1,34,453,6285,Tài khoản nghi ngờ bất thường
+ND0053,do_linh_gia_dinh_0053,14,255,65,27,1,0,610,3289,228,Người dùng bình thường
+BT0599,vo_bao_deal_0599,119,933,1954,318,24,1,19,330,18643,Tài khoản nghi ngờ bất thường
+ND0257,nguyen_phuc_du_lich_0257,5,94,14,7,4,0,1203,1664,868,Người dùng bình thường
+ND0251,hoang_duy_nhat_ky_0251,5,152,18,0,4,0,1233,3303,140,Người dùng bình thường
+ND0327,le_bao_du_lich_0327,1,76,13,5,1,0,947,553,1161,Người dùng bình thường
+ND0301,nguyen_trang_review_0301,16,215,42,20,2,0,1871,3373,998,Người dùng bình thường
+BT0597,dang_dat_khuyen_mai_0597,119,1917,1483,2191,24,1,5,201,3781,Tài khoản nghi ngờ bất thường
+ND0215,le_nhi_review_0215,8,239,24,19,3,0,2438,1184,431,Người dùng bình thường
+ND0124,nguyen_phuc_gia_dinh_0124,12,232,48,15,2,0,2062,1542,94,Người dùng bình thường
+ND0236,mai_huyen_review_0236,14,381,53,16,4,0,2231,1946,584,Người dùng bình thường
+ND0184,hoang_my_hoc_tap_0184,19,526,22,21,3,0,927,1020,954,Người dùng bình thường
+TC0481,vo_thao_review_0481,41,5657,386,115,12,0,2045,26792,2557,Người dùng tương tác cao
+BT0560,tran_hoang_khuyen_mai_0560,131,1738,593,506,16,1,23,111,19816,Tài khoản nghi ngờ bất thường
+ND0261,vo_thuy_review_0261,4,86,23,10,6,0,292,2088,145,Người dùng bình thường
+ND0347,bui_minh_doi_song_0347,8,235,21,5,3,0,1281,279,846,Người dùng bình thường
+TC0447,dang_thao_official_0447,22,12031,604,580,6,0,2901,14410,2849,Người dùng tương tác cao
+ND0112,nguyen_huong_hoc_tap_0112,10,370,44,17,5,0,1672,3660,438,Người dùng bình thường
+TC0420,vo_yen_creator_0420,36,22681,255,529,10,0,1484,45007,2022,Người dùng tương tác cao
+TC0477,dang_thuy_media_0477,26,12335,113,541,14,0,1458,59205,2144,Người dùng tương tác cao
+ND0190,do_ha_ca_nhan_0190,17,510,47,29,5,0,2183,1490,114,Người dùng bình thường
+ND0364,dang_long_gia_dinh_0364,20,283,69,22,2,0,1698,3970,968,Người dùng bình thường
+BT0584,le_huyen_click_0584,175,1556,1956,529,23,1,16,385,8991,Tài khoản nghi ngờ bất thường
+ND0211,nguyen_phuc_gia_dinh_0211,13,233,48,5,3,0,1060,4280,250,Người dùng bình thường
+ND0167,do_khoa_doi_song_0167,1,51,8,7,4,0,2093,1933,309,Người dùng bình thường
+ND0081,nguyen_linh_gia_dinh_0081,8,217,26,12,3,0,2145,162,777,Người dùng bình thường
+TC0460,dang_thuy_review_0460,40,16024,601,235,8,0,1847,30644,1142,Người dùng tương tác cao
+ND0033,vo_thao_ban_be_0033,12,244,37,24,6,0,1105,1459,705,Người dùng bình thường
+ND0212,pham_trang_gia_dinh_0212,14,471,42,6,5,0,291,4407,736,Người dùng bình thường
+TC0459,vo_mai_media_0459,48,19219,363,375,12,0,2461,15751,1583,Người dùng tương tác cao
+ND0255,dang_huyen_doi_song_0255,13,320,49,7,5,0,1381,2192,559,Người dùng bình thường
+TC0398,vo_bao_media_0398,21,12060,352,313,11,0,965,8234,1580,Người dùng tương tác cao
+ND0381,pham_phuc_ban_be_0381,14,356,50,20,6,0,1074,3849,644,Người dùng bình thường
+BT0600,tran_nhat_spam_0600,111,1844,1365,1612,20,1,45,515,13200,Tài khoản nghi ngờ bất thường
+ND0093,dang_linh_gia_dinh_0093,13,257,50,9,7,0,511,250,927,Người dùng bình thường
+TC0468,tran_mai_media_0468,39,14527,525,93,5,1,2452,64808,648,Người dùng tương tác cao
+ND0244,le_yen_hoc_tap_0244,22,523,62,40,3,0,1501,2203,1095,Người dùng bình thường
+ND0234,hoang_phuong_du_lich_0234,15,353,53,22,2,0,1286,3816,871,Người dùng bình thường
+BT0526,dang_phuong_bot_0526,137,1149,2949,267,24,1,8,31,17941,Tài khoản nghi ngờ bất thường
+ND0188,tran_duy_hoc_tap_0188,13,297,41,20,7,1,2191,3797,801,Người dùng bình thường
+ND0332,nguyen_phuong_hoc_tap_0332,10,362,17,14,1,0,218,4252,734,Người dùng bình thường
+BT0562,tran_nam_spam_0562,110,306,1670,1734,24,1,26,304,19853,Tài khoản nghi ngờ bất thường
+ND0049,dang_minh_hoc_tap_0049,20,424,74,13,6,0,980,1029,201,Người dùng bình thường
+TC0414,pham_yen_cong_dong_0414,19,21556,534,555,9,0,286,46858,1705,Người dùng tương tác cao
+TC0464,hoang_duy_sang_tao_0464,54,15070,424,408,13,0,2965,53137,794,Người dùng tương tác cao
+ND0108,pham_ngoc_ca_nhan_0108,1,130,1,3,7,0,1530,869,848,Người dùng bình thường
+ND0137,nguyen_mai_hoc_tap_0137,8,253,33,6,3,0,2179,2935,546,Người dùng bình thường
+ND0199,mai_tuan_review_0199,6,63,7,10,6,0,652,3308,1167,Người dùng bình thường
+ND0200,mai_anh_ca_nhan_0200,20,569,74,27,3,0,298,4467,489,Người dùng bình thường
+ND0286,vo_hoang_review_0286,15,470,42,17,7,0,2205,541,361,Người dùng bình thường
+ND0322,hoang_ngoc_gia_dinh_0322,14,372,34,14,2,0,1654,1188,995,Người dùng bình thường
+ND0163,pham_yen_hoc_tap_0163,13,308,56,27,3,0,1442,2946,203,Người dùng bình thường
+BT0577,nguyen_nhat_auto_0577,178,1569,1837,1602,23,1,11,496,18499,Tài khoản nghi ngờ bất thường
+TC0399,vo_minh_creator_0399,35,9126,617,510,11,1,1140,43555,2520,Người dùng tương tác cao
+ND0201,hoang_yen_ca_nhan_0201,7,134,33,13,1,0,1257,4002,1157,Người dùng bình thường
+BT0524,nguyen_khang_quang_cao_0524,207,290,3193,2021,16,1,37,574,4329,Tài khoản nghi ngờ bất thường
+ND0193,do_linh_ca_nhan_0193,16,540,46,7,4,0,1888,604,302,Người dùng bình thường
+BT0591,nguyen_nhat_quang_cao_0591,225,919,1155,1125,19,1,60,437,10282,Tài khoản nghi ngờ bất thường
+ND0054,mai_thao_review_0054,11,284,22,12,4,0,1171,2719,999,Người dùng bình thường
+ND0125,pham_my_du_lich_0125,6,230,18,5,4,0,1629,733,877,Người dùng bình thường
+ND0250,le_minh_review_0250,13,246,53,8,5,0,292,4240,675,Người dùng bình thường
+BT0565,pham_ha_click_0565,193,1660,3183,1063,22,1,29,38,6679,Tài khoản nghi ngờ bất thường
+ND0248,dang_khoa_gia_dinh_0248,13,389,27,18,5,1,779,1226,383,Người dùng bình thường
+ND0115,le_khoa_nhat_ky_0115,10,250,52,4,1,0,1965,1666,1032,Người dùng bình thường
+ND0069,mai_trang_doi_song_0069,10,322,53,21,5,0,980,2540,387,Người dùng bình thường
+ND0096,pham_yen_nhat_ky_0096,16,493,44,23,6,0,2185,2224,689,Người dùng bình thường
+TC0396,le_tuan_review_0396,29,23500,550,323,8,1,539,13168,2499,Người dùng tương tác cao
+ND0369,hoang_mai_doi_song_0369,8,143,42,9,4,1,832,3018,396,Người dùng bình thường
+ND0185,vo_anh_review_0185,4,85,25,6,7,0,1253,2721,301,Người dùng bình thường
+ND0058,do_huong_doi_song_0058,13,388,38,18,7,0,2483,1027,956,Người dùng bình thường
+ND0031,hoang_huong_ca_nhan_0031,15,235,49,12,5,0,811,2112,299,Người dùng bình thường
+TC0411,le_huyen_cong_dong_0411,46,21006,891,269,7,0,866,47904,447,Người dùng tương tác cao
+BT0575,vo_dat_click_0575,179,808,1948,1987,19,1,58,74,20685,Tài khoản nghi ngờ bất thường
+ND0354,vo_khoa_ca_nhan_0354,14,318,60,16,1,0,2493,2973,385,Người dùng bình thường
+ND0374,vo_son_ban_be_0374,7,163,38,4,2,0,361,3475,1153,Người dùng bình thường
+BT0552,vo_son_deal_0552,190,1312,2272,1485,17,1,10,497,14378,Tài khoản nghi ngờ bất thường
+ND0232,dang_thuy_gia_dinh_0232,15,210,20,23,5,0,529,4085,739,Người dùng bình thường
+BT0549,le_hoang_click_0549,170,1597,774,1919,21,1,50,546,9807,Tài khoản nghi ngờ bất thường
+ND0132,mai_dat_ban_be_0132,11,148,22,12,3,0,292,1120,805,Người dùng bình thường
+ND0052,bui_ha_doi_song_0052,13,396,40,20,1,0,351,655,1120,Người dùng bình thường
+TC0449,nguyen_mai_blog_0449,42,6094,554,401,8,1,2774,68440,1079,Người dùng tương tác cao
+BT0580,bui_khoa_click_0580,238,1060,2734,1623,21,1,40,151,7100,Tài khoản nghi ngờ bất thường
+ND0315,vo_nam_hoc_tap_0315,1,121,8,0,1,1,1783,2349,1160,Người dùng bình thường
+ND0166,nguyen_my_doi_song_0166,9,236,29,13,2,1,2463,1592,742,Người dùng bình thường
+ND0238,pham_nam_hoc_tap_0238,11,149,30,9,4,1,1471,2736,602,Người dùng bình thường
+TC0443,tran_huong_official_0443,47,14592,674,166,13,1,2212,82765,2718,Người dùng tương tác cao
+ND0126,nguyen_khoa_review_0126,13,348,40,14,5,0,2362,3696,879,Người dùng bình thường
+ND0177,tran_huyen_doi_song_0177,10,137,19,18,6,1,1501,3594,706,Người dùng bình thường
+TC0496,nguyen_tuan_review_0496,22,13676,390,447,12,0,1143,5359,519,Người dùng tương tác cao
+ND0339,bui_linh_doi_song_0339,10,229,28,7,7,0,316,2926,694,Người dùng bình thường
+ND0020,do_quang_nhat_ky_0020,6,153,18,7,5,0,335,3391,687,Người dùng bình thường
+ND0029,mai_huong_review_0029,10,230,31,22,1,0,957,1408,639,Người dùng bình thường
+BT0540,tran_phuc_spam_0540,133,96,408,1471,19,1,33,624,4048,Tài khoản nghi ngờ bất thường
+ND0243,do_ngoc_ca_nhan_0243,12,328,39,21,6,0,933,1372,807,Người dùng bình thường
+ND0267,bui_lam_du_lich_0267,9,218,43,11,2,0,1538,4208,452,Người dùng bình thường
+ND0088,pham_khoa_hoc_tap_0088,7,153,24,13,7,0,743,1479,346,Người dùng bình thường
+ND0148,dang_phuc_doi_song_0148,1,53,1,9,3,0,1476,4096,734,Người dùng bình thường
+ND0026,hoang_khang_hoc_tap_0026,15,300,36,29,7,0,1309,2895,451,Người dùng bình thường
+ND0117,tran_ngoc_hoc_tap_0117,13,276,25,15,2,0,282,1265,402,Người dùng bình thường
+ND0290,bui_phuc_review_0290,9,219,46,6,2,0,687,1124,770,Người dùng bình thường
+ND0059,hoang_anh_hoc_tap_0059,22,274,80,30,2,1,2152,465,636,Người dùng bình thường
+TC0418,vo_khoa_sang_tao_0418,39,5471,123,321,10,0,2972,10780,1720,Người dùng tương tác cao
+ND0130,pham_khang_hoc_tap_0130,17,318,64,30,3,0,1406,3701,847,Người dùng bình thường
+TC0444,mai_ha_blog_0444,42,2535,513,117,5,1,744,89805,2267,Người dùng tương tác cao
+BT0586,dang_duy_khuyen_mai_0586,165,1763,1589,1117,20,1,22,81,3947,Tài khoản nghi ngờ bất thường
+ND0037,bui_mai_review_0037,5,151,30,11,1,0,1817,1496,61,Người dùng bình thường
+TC0417,le_long_media_0417,36,1515,559,284,5,0,632,76597,1191,Người dùng tương tác cao
+TC0509,hoang_duy_cong_dong_0509,43,4790,814,202,13,0,2981,33871,892,Người dùng tương tác cao
+ND0038,pham_ha_doi_song_0038,11,166,22,17,2,1,674,2280,708,Người dùng bình thường
+ND0384,hoang_yen_gia_dinh_0384,4,120,11,6,7,0,2177,495,319,Người dùng bình thường
+ND0041,tran_yen_nhat_ky_0041,7,162,32,6,7,0,2089,1708,792,Người dùng bình thường
+BT0521,do_nhi_click_0521,136,2481,2308,1329,20,1,16,517,16121,Tài khoản nghi ngờ bất thường
+BT0578,do_phuc_click_0578,188,1236,523,2173,23,1,33,623,17466,Tài khoản nghi ngờ bất thường
+ND0216,le_yen_du_lich_0216,7,261,32,0,4,0,352,1780,559,Người dùng bình thường
+ND0319,do_bao_nhat_ky_0319,17,229,77,26,2,0,723,2676,1110,Người dùng bình thường
+TC0434,tran_linh_cong_dong_0434,24,8538,442,311,12,0,1108,58828,1550,Người dùng tương tác cao
+BT0559,vo_phuong_quang_cao_0559,161,606,385,1194,22,1,17,605,9250,Tài khoản nghi ngờ bất thường
+ND0164,nguyen_huong_ban_be_0164,2,56,4,8,5,0,535,3880,132,Người dùng bình thường
+ND0224,do_yen_ca_nhan_0224,16,353,59,25,4,0,1160,2962,1199,Người dùng bình thường
+ND0195,hoang_trang_hoc_tap_0195,5,200,18,6,7,0,950,1748,324,Người dùng bình thường
+ND0345,nguyen_phuc_hoc_tap_0345,9,197,31,12,3,0,2031,273,40,Người dùng bình thường
+ND0280,tran_hoang_nhat_ky_0280,14,517,49,26,3,0,2258,1843,655,Người dùng bình thường
+ND0005,pham_mai_ca_nhan_0005,2,108,9,0,5,0,1099,1136,140,Người dùng bình thường
+TC0465,tran_huyen_review_0465,54,5436,504,201,6,0,1130,8968,1679,Người dùng tương tác cao
+TC0484,le_nhi_cong_dong_0484,48,4904,641,528,13,0,2458,39911,466,Người dùng tương tác cao
+ND0265,vo_thuy_gia_dinh_0265,13,196,27,20,4,0,1409,3300,351,Người dùng bình thường
+ND0165,do_khang_review_0165,9,235,50,8,4,0,2271,138,686,Người dùng bình thường
+ND0228,tran_phuc_nhat_ky_0228,6,181,11,12,6,1,575,2301,698,Người dùng bình thường
+ND0209,nguyen_duy_ban_be_0209,14,379,27,28,1,1,2223,3913,302,Người dùng bình thường
+ND0011,dang_lam_hoc_tap_0011,9,218,28,17,5,0,2247,2461,212,Người dùng bình thường
+TC0458,dang_nam_cong_dong_0458,22,13908,482,106,5,0,1540,89827,1106,Người dùng tương tác cao
+TC0395,bui_trang_media_0395,34,13053,714,400,6,0,2901,75300,2569,Người dùng tương tác cao
+ND0028,tran_huyen_du_lich_0028,2,74,8,3,6,0,1436,445,845,Người dùng bình thường
+ND0067,vo_thao_ca_nhan_0067,12,397,51,9,5,0,305,1755,476,Người dùng bình thường
+TC0442,tran_huyen_review_0442,42,10573,459,282,9,0,719,14814,122,Người dùng tương tác cao
+ND0048,do_nam_review_0048,8,213,26,10,3,0,829,4469,904,Người dùng bình thường
+TC0428,dang_khoa_cong_dong_0428,32,5062,168,226,6,0,831,12122,567,Người dùng tương tác cao
+ND0158,mai_thuy_doi_song_0158,3,183,25,5,1,0,1768,1553,846,Người dùng bình thường
+ND0279,le_ngoc_ca_nhan_0279,15,440,59,6,2,0,975,3918,792,Người dùng bình thường
+ND0044,mai_duy_doi_song_0044,7,245,34,14,5,0,2388,1628,351,Người dùng bình thường
+ND0316,vo_khang_review_0316,17,256,44,5,4,0,244,4184,795,Người dùng bình thường
+TC0391,le_khoa_media_0391,39,22086,209,272,5,0,1897,48779,370,Người dùng tương tác cao
+ND0105,vo_lam_review_0105,13,304,30,26,2,0,1894,3687,126,Người dùng bình thường
+TC0453,le_duy_review_0453,51,2702,130,421,11,1,2429,13884,1450,Người dùng tương tác cao
+ND0227,pham_linh_nhat_ky_0227,8,363,14,9,5,0,1763,238,1034,Người dùng bình thường
+ND0363,pham_quang_hoc_tap_0363,13,167,52,13,6,1,1093,422,664,Người dùng bình thường
+TC0472,mai_huong_sang_tao_0472,43,21350,587,419,14,0,678,30761,1555,Người dùng tương tác cao
+ND0380,tran_tuan_nhat_ky_0380,11,203,34,12,7,0,1833,1065,515,Người dùng bình thường
+ND0266,vo_trang_ca_nhan_0266,17,563,83,24,2,0,2424,2086,346,Người dùng bình thường
+ND0182,nguyen_dat_review_0182,16,525,36,32,4,0,1966,2085,1135,Người dùng bình thường
+BT0541,dang_huong_khuyen_mai_0541,179,1563,2108,1503,16,1,13,501,17515,Tài khoản nghi ngờ bất thường
+BT0582,nguyen_nhi_bot_0582,137,1751,434,735,21,0,5,552,7910,Tài khoản nghi ngờ bất thường
+ND0291,do_long_review_0291,7,168,16,10,4,0,1692,3088,642,Người dùng bình thường
+ND0370,bui_phuong_nhat_ky_0370,19,335,47,21,1,0,2351,1960,332,Người dùng bình thường
+ND0325,dang_nam_ca_nhan_0325,15,423,32,27,7,0,1967,2976,827,Người dùng bình thường
+TC0448,vo_duy_cong_dong_0448,32,11687,884,212,7,0,715,89833,2736,Người dùng tương tác cao
+TC0445,tran_linh_blog_0445,43,1711,495,94,10,0,2316,54103,1812,Người dùng tương tác cao
+ND0318,nguyen_ngoc_ca_nhan_0318,17,359,28,11,3,1,1247,3858,399,Người dùng bình thường
+BT0529,nguyen_hoang_bot_0529,69,924,3106,1694,21,1,26,501,18977,Tài khoản nghi ngờ bất thường
+TC0508,dang_minh_official_0508,19,9378,390,69,7,0,1893,41627,1594,Người dùng tương tác cao
+TC0400,vo_nhi_official_0400,32,19264,829,456,10,0,654,10669,2816,Người dùng tương tác cao
+ND0051,do_nhi_ca_nhan_0051,1,36,7,0,4,0,1725,475,1187,Người dùng bình thường
+BT0585,mai_quang_auto_0585,134,999,1218,549,16,1,11,57,18001,Tài khoản nghi ngờ bất thường
+ND0237,dang_ngoc_hoc_tap_0237,16,488,54,17,7,1,1136,1477,1103,Người dùng bình thường
+TC0436,tran_linh_creator_0436,28,10254,754,153,13,0,2354,66828,350,Người dùng tương tác cao
+ND0362,mai_khoa_ban_be_0362,6,222,45,9,4,0,534,4144,949,Người dùng bình thường
+ND0246,hoang_tuan_du_lich_0246,11,317,19,16,2,0,211,1017,657,Người dùng bình thường
+BT0574,vo_anh_auto_0574,213,796,2579,997,16,1,25,508,6020,Tài khoản nghi ngờ bất thường
+ND0274,pham_my_hoc_tap_0274,7,243,37,12,6,0,1380,1442,225,Người dùng bình thường
+BT0581,pham_anh_auto_0581,180,913,1189,475,20,0,59,244,19711,Tài khoản nghi ngờ bất thường
+ND0065,tran_linh_ban_be_0065,16,240,63,21,3,0,784,3419,556,Người dùng bình thường
+ND0178,dang_my_review_0178,10,170,22,18,4,1,940,3707,986,Người dùng bình thường
+ND0039,nguyen_ngoc_du_lich_0039,14,386,19,21,2,0,2078,1770,389,Người dùng bình thường
+TC0476,tran_thao_blog_0476,51,22746,780,280,9,0,2422,87888,2764,Người dùng tương tác cao
+BT0576,dang_long_spam_0576,204,1940,2052,314,18,1,2,331,3770,Tài khoản nghi ngờ bất thường
+ND0171,bui_dat_ban_be_0171,1,77,17,3,4,0,372,1056,848,Người dùng bình thường
+ND0030,nguyen_nhi_gia_dinh_0030,16,196,42,11,7,0,2381,1479,1097,Người dùng bình thường
+BT0594,vo_vy_khuyen_mai_0594,180,620,3033,1474,20,1,59,286,6402,Tài khoản nghi ngờ bất thường
+ND0359,mai_anh_nhat_ky_0359,10,316,32,15,3,0,2262,361,1185,Người dùng bình thường
+TC0435,le_mai_official_0435,35,15069,642,265,12,1,695,16421,476,Người dùng tương tác cao
+ND0024,do_nhi_nhat_ky_0024,18,578,67,22,4,0,1260,2658,323,Người dùng bình thường
+ND0338,do_ha_ban_be_0338,14,227,35,14,3,0,1286,418,699,Người dùng bình thường
+ND0076,hoang_ngoc_du_lich_0076,17,394,48,31,4,0,461,2175,1156,Người dùng bình thường
+TC0407,dang_long_creator_0407,33,8173,478,421,13,1,1558,16754,908,Người dùng tương tác cao
+ND0133,tran_anh_nhat_ky_0133,6,135,38,11,4,0,1069,2510,708,Người dùng bình thường
+ND0136,hoang_ngoc_nhat_ky_0136,16,482,32,32,1,0,1538,3528,172,Người dùng bình thường
+ND0019,vo_tuan_review_0019,14,487,25,11,1,0,1866,2185,888,Người dùng bình thường
+ND0121,bui_anh_ban_be_0121,12,215,45,22,6,0,821,4095,675,Người dùng bình thường
+ND0351,tran_long_gia_dinh_0351,16,428,33,22,4,0,2152,206,107,Người dùng bình thường
+ND0349,dang_hoang_gia_dinh_0349,13,368,54,25,4,0,1630,2580,442,Người dùng bình thường
+ND0092,do_huong_gia_dinh_0092,5,160,6,1,1,0,1645,4112,1040,Người dùng bình thường
+BT0592,nguyen_thao_click_0592,225,1685,844,619,21,1,26,94,19329,Tài khoản nghi ngờ bất thường
+ND0282,tran_tuan_doi_song_0282,12,347,46,18,5,0,1378,2438,154,Người dùng bình thường
+TC0454,bui_hoang_cong_dong_0454,55,17624,610,301,10,0,738,66431,1267,Người dùng tương tác cao
+ND0222,nguyen_thuy_review_0222,7,161,20,13,1,0,1869,1582,718,Người dùng bình thường
+ND0371,dang_ngoc_review_0371,17,376,33,13,3,0,411,490,1113,Người dùng bình thường
+ND0241,dang_khang_ca_nhan_0241,12,291,49,20,1,0,1500,2558,174,Người dùng bình thường
+ND0314,pham_trang_doi_song_0314,9,250,29,15,7,0,915,1936,1166,Người dùng bình thường
+TC0488,bui_long_creator_0488,29,20935,745,406,9,0,2468,48702,2552,Người dùng tương tác cao
+ND0119,do_long_review_0119,10,355,46,10,1,0,715,1593,398,Người dùng bình thường
+ND0175,dang_quang_review_0175,13,212,49,11,2,0,394,2692,676,Người dùng bình thường
+BT0573,hoang_quang_quang_cao_0573,88,772,2268,1208,17,1,34,249,20295,Tài khoản nghi ngờ bất thường
+ND0214,mai_huong_du_lich_0214,8,303,41,13,3,0,772,3421,715,Người dùng bình thường
+ND0379,pham_khang_du_lich_0379,13,182,35,26,4,0,826,2101,797,Người dùng bình thường
+BT0538,tran_lam_quang_cao_0538,163,1563,1338,682,18,1,2,372,18866,Tài khoản nghi ngờ bất thường
+ND0330,bui_huong_hoc_tap_0330,13,213,24,11,5,1,1880,970,944,Người dùng bình thường
+ND0085,hoang_khoa_ca_nhan_0085,2,13,16,2,2,0,1806,479,180,Người dùng bình thường
+ND0235,nguyen_khang_hoc_tap_0235,11,229,37,25,2,0,1299,602,785,Người dùng bình thường
+TC0503,tran_trang_creator_0503,19,5252,116,187,10,0,1312,69097,898,Người dùng tương tác cao
+BT0513,bui_quang_deal_0513,111,1663,1864,1780,23,0,45,536,4518,Tài khoản nghi ngờ bất thường
+BT0550,hoang_mai_click_0550,128,1659,859,1002,24,1,51,369,9407,Tài khoản nghi ngờ bất thường
+ND0082,do_long_ca_nhan_0082,7,164,21,19,7,0,1234,98,462,Người dùng bình thường
