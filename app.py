@@ -2662,7 +2662,7 @@ with tabs[2]:
     </div>
     """, unsafe_allow_html=True)
 
-    st.markdown("### ✅ Kết quả kiểm tra chất lượng")
+    st.markdown("### Kết quả kiểm tra chất lượng")
 
     bang_kiem_tra = pd.DataFrame({
         "Tiêu chí": [
@@ -2672,7 +2672,7 @@ with tabs[2]:
             "Giờ hoạt động vượt 24",
             "Dòng bị loại sau xử lý",
             "Đặc trưng rủi ro",
-            "Chuẩn hóa trước mô hình"
+            "Chuẩn hóa trước mô hình"   
         ],
         "Trước xử lý": [
             so_o_thieu_truoc,
@@ -2765,14 +2765,12 @@ with tabs[2]:
         fig_risk.update_traces(textposition="outside")
         ve_bieu_do(fig_risk, width="stretch")
 
-    st.markdown("### 📋 Mẫu tài khoản sau xử lý")
+    st.markdown("### 📋 Bảng tài khoản sau xử lý")
 
     st.markdown("""
     <div class="card">
     <p>
-    Bảng mẫu dưới đây lấy đại diện từ cả ba nhóm hành vi, không chỉ hiển thị tài khoản rủi ro cao.
-    Nhờ vậy giảng viên có thể thấy dữ liệu sau xử lý đã phục vụ đúng bài toán:
-    so sánh người dùng bình thường, người dùng tương tác cao và tài khoản nghi ngờ bất thường.
+    Lấy đại diện từ cả ba nhóm hành vi, không chỉ hiển thị tài khoản rủi ro cao.
     </p>
     </div>
     """, unsafe_allow_html=True)
@@ -2871,7 +2869,7 @@ with tabs[2]:
 
 # 4 Phân tích dữ liệu
 with tabs[3]:
-    st.subheader("📊 Phân tích khám phá dữ liệu")
+    st.subheader("📊 Phân tích mô hình dữ liệu")
 
     a, b = st.columns(2)
 
@@ -3184,7 +3182,7 @@ with tabs[5]:
         "📍 Bản đồ rủi ro",
         "🧾 Phiếu tài khoản đầy đủ",
         "📋 Danh sách xử lý chuẩn báo cáo",
-        "🧪 Demo tài khoản mới có quy trình"
+        "🧪 Dự đoán tài khoản"
     ])
 
     with anomaly_tabs[0]:
@@ -3345,7 +3343,7 @@ with tabs[5]:
             )
 
     with anomaly_tabs[3]:
-        st.markdown("### 🧪 Dự đoán tài khoản mới theo quy trình")
+        st.markdown("### 🧪 Dự đoán tài khoản")
         st.markdown("""
         <div class="card">
         Các bước: nhập dữ liệu thô → tạo đặc trưng → chuẩn hóa → dự đoán cụm → kiểm tra lệch khỏi số đông
